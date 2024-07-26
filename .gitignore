@@ -167,3 +167,6 @@ cython_debug/
 !/dataset-analysis/revision.py
 /dataset-analysis/revision files/
 /deebo/demo notebook files/
+# pixi environments
+.pixi
+*.egg-info
